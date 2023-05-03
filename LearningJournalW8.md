@@ -9,10 +9,14 @@ Finish deciding on mmethods to automate both theme and CMS DB deployment for wor
 
 Tested a learning experiment to see if it can improve study habits:
 
-Attempted to improve long term study session focus using Pomodoro technique
+Attempted to improve long term study session focus using Pomodoro technique:
+
     - Set a timer for 25 minutes and begin studying or working on a task.
+    
     - When the timer goes off, take a 5-minute break to rest and recharge.
+    
     - After the break, set the timer for another 25 minutes and continue studying or working.
+    
 Test is to see if Breaking study and breaks into regular intervals   can assist in keeping focus in long study sessions. 
 
 ## Resources/Links
@@ -33,7 +37,7 @@ https://github.com/welaika/wordmove
 
 Azure AD is used as a sophisticated tool by large organisations to create secure, customised systems for accessing its various cloud services.
 
-Could be a solution solution to control staging environment access, but simpler solutions like modifying wordpress with private site plugins might offer simpler alternatives for the sake of assignment requirements.
+Could be a solution solution to control staging environment access, more research needed to select the best solution for the assignment
 
 
 ## Career/Employability/Learning Insights
