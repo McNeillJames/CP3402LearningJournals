@@ -12,7 +12,7 @@ Learned common design principles around WordPress Template Parts
 
 https://learn.microsoft.com/en-us/azure/azure-monitor/usage-estimated-costs
 
-https://www.hostinger.com/tutorials/wordpress-security-issues#:~:text=Some%20of%20the%20most%20common,still%20fall%20victim%20to%20malware.
+https://www.hostinger.com/tutorials/wordpress-security-issues
 
 https://kinsta.com/blog/is-wordpress-secure/
 
